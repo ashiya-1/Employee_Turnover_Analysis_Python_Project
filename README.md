@@ -1,6 +1,6 @@
 # Employee_Turnover_Python_Project
 
-ORVERVIEW :
+OVERVIEW :
 
 -This project involves a comprehensive data analysis to understand employee turnover . 
 
